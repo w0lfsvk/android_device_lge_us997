@@ -10,4 +10,4 @@
 #
   
 PRODUCT_MAKEFILES := \
-  $(LOCAL_DIR)/aosp_us997.mk
+  $(LOCAL_DIR)/aicp.mk
